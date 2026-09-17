@@ -15,5 +15,6 @@ dependencies = [
     "pandas>=3.0.5",
     "plotly>=7.1.0",
     "shapely>=2.1.2",
+    "streamlit>=1.64.0",
     "tables>=3.11.1",
 ]
