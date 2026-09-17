@@ -6,12 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "ipykernel>=7.3.0",
-<<<<<<< HEAD
+    "matplotlib>=3.11.2",
     "mime>=0.1.0",
     "nbformat>=5.11.1",
-=======
-    "matplotlib>=3.11.2",
->>>>>>> 5ff66cccb508f3ff132594217f8206749c2ddc57
     "numpy>=2.5.3",
     "openpyxl>=3.1.5",
     "pandas>=3.0.5",
